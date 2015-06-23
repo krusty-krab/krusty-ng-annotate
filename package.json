@@ -13,7 +13,7 @@
     "convert-source-map": "~1.0.0",
     "optimist": "~0.6.1",
     "ordered-ast-traverse": "~1.1.1",
-    "simple-fmt": "~0.1.0",
+    "simple-fmt": "0.1.0",
     "simple-is": "~0.2.0",
     "source-map": "~0.4.2",
     "stable": "~0.1.5",
